@@ -1,0 +1,18 @@
+{
+  "name": "forkify-clone",
+  "version": "1.0.0",
+  "description": "This is the final project in my Jonas course, and I replicated it ",
+  "license": "ISC",
+  "author": "Opeyemi Abdulsalam Rufus",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.16.4",
+    "parcel": "^2.16.4"
+  },
+  "dependencies": {
+    "fraction.js": "^5.3.4"
+  }
+}
